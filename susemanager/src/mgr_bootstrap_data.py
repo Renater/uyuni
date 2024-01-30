@@ -1261,7 +1261,7 @@ DATA = {
         'DEST' : DOCUMENT_ROOT + '/pub/repositories/centos/8/bootstrap/'
     },
     'centos-9-x86_64' : {
-        'PDID' : [-13, 2007], 'BETAPDID' : [2066], 'PKGLIST' : RES9,
+        'PKGLIST' : RES9,
         'DEST' : DOCUMENT_ROOT + '/pub/repositories/centos/9/bootstrap/'
     },
     'centos-6-x86_64-uyuni' : {
